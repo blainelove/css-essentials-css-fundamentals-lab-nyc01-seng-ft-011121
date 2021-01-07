@@ -12,6 +12,6 @@ body > a{
 
 
 }
-h3 > p{
+h3 {
   align-items: baseline;
 }
