@@ -6,8 +6,9 @@ head > title{
 body {
   width: 100%;
   height: 100%;
-  margin: auto;
+  margin: 20%;
   text-align: center;
+
 }
 h3 + p{
   align-items: center;
